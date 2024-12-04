@@ -1,11 +1,11 @@
 # vue-shop-lite
-Project setup
+# Project setup
 yarn install
-Compiles and hot-reloads for development
+# Compiles and hot-reloads for development
 yarn serve
-Compiles and minifies for production
+# Compiles and minifies for production
 yarn build
-Lints and fixes files
+# Lints and fixes files
 yarn lint
-Customize configuration
+# Customize configuration
 See Configuration Reference.
